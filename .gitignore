@@ -1,0 +1,12 @@
+/target
+.project
+.settings
+.classpath
+target
+*.log
+.idea
+*.iml
+*.bat
+*.log.*
+.DS_Store
+tags
